@@ -1,0 +1,80 @@
+/* Main Styles */
+
+
+html {
+background-image: url(images/blueprint.jpg);
+}
+
+div {
+    border-radius: 25px;
+    width: 1000px;
+    margin: 20px auto;
+    padding: 40px 75px;
+    background-color: rgba(255,255,255,0.7);
+    height: 790px;
+    text-align: center;
+    box-align: auto;
+}
+
+/* Text Styles */
+
+h1 {
+   font-family: 'Courier New'; 
+   letter-spacing: 0.5px; 
+   font-size: 50px;
+}
+
+p {
+    font-family: Verdana;
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+
+h2, h3 {
+    font-family: Verdana;
+    text-decoration: none;
+}
+
+
+/* Link Styles */
+
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+/* Class Styles */
+
+.devices {
+    color: #007F0E;
+}
+
+.memory {
+    color: rgb(255, 106, 0);
+}
+
+.central {
+    color: #FF0000;
+}
+
+
+/* Line Breaks */
+hr {
+    overflow: visible;
+    border-style: solid;
+    border-color: red;
+    border-width: 3px 0 0 0;
+    border-radius: 20px;
+}

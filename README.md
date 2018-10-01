@@ -1,2 +1,2 @@
-# vonneumann
-My von Neumann folder
+# vonNeumann-assignment
+von Neumann Architecture Assignment for Intro to Web Development
